@@ -19,7 +19,7 @@ Assicurati di avere installato:
 
 ### 2. Clonare il repository
 ```sh
-git clone https://github.com/tuo-username/DanAI.git
+https://github.com/DaniloScimone/DanAI.git
 cd DanAI
 ```
 
